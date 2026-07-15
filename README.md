@@ -5,7 +5,9 @@ ANUM EMMANUEL ELIKPLIM - 01244738B
 Stephen Attigah - 01242739B
 Obeng Kissi Jedediah Siisi - 01243581B
 Enock Ansah Ardey - 01242780B
-
+Benedict Bissah - 01240038B
+Narter - Olaga Daniel Tetteh - 01243250B
+Basing Joseph Basing - 01240234B 
 
 ##  Project Background
 Electrical installations in labs, workshops, hostels, and small buildings often face faults such as overload, short circuit, earth leakage, low voltage, loose connections, and equipment failure. Proper fault recording helps technicians identify recurring issues, take corrective action, and plan maintenance.  
