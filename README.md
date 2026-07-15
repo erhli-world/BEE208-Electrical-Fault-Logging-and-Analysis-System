@@ -21,5 +21,34 @@ Faults in electrical systems are common but often poorly documented. Without pro
 - Generate a basic fault analysis report  
 - Reinforce programming skills in data handling and control structures
 
+# Fault Severity Rules
+The system classifies faults into **three severity levels** based on their impact:
+- **Minor Faults** → Low voltage, loose connections (non-critical, but require attention).  
+- **Moderate Faults** → Overload, equipment failure (can cause interruptions if ignored).  
+- **Severe Faults** → Short circuit, earth leakage (pose safety hazards and require immediate action).  
+
+Severity rules are implemented using **conditional statements (`if...else`, `switch`)** to ensure accurate categorization.
+
+
+## Applied C++ Concepts
+This project reinforces key programming concepts:
+- **Control Structures** → `if...else`, `switch` for fault classification.  
+- **Loops** → `for`, `while`, `do...while` for iterative fault analysis.  
+- **Data Handling** → Arrays and structures for storing fault records.  
+- **Functions** → Modular design for logging, classification, and reporting.  
+- **User Interaction** → Menu-driven interface for input and output.  
+
+## Challenges and Solutions
+
+- **Challenge:** Handling multiple fault entries efficiently  
+  **Solution:** Implemented arrays and loops to store and process multiple records  
+
+- **Challenge:** Designing clear severity classification rules  
+  **Solution:** Used structured conditional logic (`switch` statements) to ensure consistency  
+
+- **Challenge:** User input errors (e.g., invalid fault type)  
+  **Solution:** Added input validation and error-handling routines  
+
+
 
 
