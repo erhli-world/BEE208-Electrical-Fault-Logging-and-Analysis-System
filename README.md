@@ -1,13 +1,25 @@
 # BEE208-Electrical-Fault-Logging-and-Analysis-System
 This project is a C++-based system developed as part of the BEE208 course to log, analyze, and classify electrical faults in power systems. It provides a structured framework for recording fault data, applying control statements for decision-making, and generating meaningful outputs for diagnostics and reporting.
 
-ANUM EMMANUEL ELIKPLIM - 01244738B
-Stephen Attigah - 01242739B
-Obeng Kissi Jedediah Siisi - 01243581B
-Enock Ansah Ardey - 01242780B
-Benedict Bissah - 01240038B
-Narter - Olaga Daniel Tetteh - 01243250B
-Basing Joseph Basing - 01240234B 
+ANUM EMMANUEL ELIKPLIM - 01244738B (Project lead and final coordination)
+
+Stephen Attigah - 01242739B (Testing and input validation lead)
+
+Obeng Kissi Jedediah Siisi - 01243581B (Flowchart designer)
+
+Enock Ansah Ardey - 01242780B (C++ programmer)
+
+Armah Bruce Nii - 01243733B (C++ programmer)
+
+Benedict Bissah - 01240038B (Pseudocode writer)
+
+Narter - Olaga Daniel Tetteh - 01243250B (Algorithm writer)
+
+Basing Joseph N-Sinbeh - 01240234B (Documentation and README lead)
+
+⁠Israel Avabey Awomnab - 01244814B (Presentation and defence lead)
+
+Dzirasi Samuel Arthur - 01246159B (GitHub repository manager)
 
 ##  Project Background
 Electrical installations in labs, workshops, hostels, and small buildings often face faults such as overload, short circuit, earth leakage, low voltage, loose connections, and equipment failure. Proper fault recording helps technicians identify recurring issues, take corrective action, and plan maintenance.  
