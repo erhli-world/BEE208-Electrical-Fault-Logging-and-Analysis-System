@@ -1,0 +1,37 @@
+ELECTRICAL FAULT REPORT
+
+Fault ID: F001
+Location: Electrical Lab
+Fault Type: Breaker problem
+Voltage: 220 V
+Current: 9 A
+Action Taken: Turned off main switch
+Severity: Minor
+---------------------------------
+Fault ID: F002
+Location: Auditorium
+Fault Type: Short circuit
+Voltage: 210 V
+Current: 3 A
+Action Taken: Reported to technician
+Severity: Critical
+---------------------------------
+Fault ID: F003
+Location: Basement
+Fault Type: Electric file
+Voltage: 200 V
+Current: 18 A
+Action Taken: Evacuated all persons from the basement
+Severity: Serious
+---------------------------------
+Fault ID: F004
+Location: Lecture hall
+Fault Type: Wrong earthing
+Voltage: 250 V
+Current: 33 A
+Action Taken: Turned off main switch
+Severity: Serious
+---------------------------------
+
+Total Faults: 4
+Critical Faults: 1
